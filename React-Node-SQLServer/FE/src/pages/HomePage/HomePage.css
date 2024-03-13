@@ -1,0 +1,18 @@
+/* START STYLE */
+.diagram-block h2 {
+    background-color: #0f5c86;
+    /* Blue background */
+    color: white;
+    /* White text */
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+.underline-on-hover:hover {
+    text-decoration: underline;
+    color: #2BBE46;
+    color-rendering: optimizeSpeed;
+}
+
+/* END STYLE */
